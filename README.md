@@ -18,7 +18,7 @@
 - **For OBS 28** - This version of StreamFX is not produciton ready, so use at own discretion. Found here:  [StreamFX 0.12.0 Alpha 117](https://github.com/Xaymar/obs-StreamFX/releases/tag/0.12.0a117)
 
 ## Install
- ####  **DOWNLOAD Latest version here and extract ZIP file:** 
+ ####  **DOWNLOAD and extract StreamAnimate.0.3.Beta.zip file found here:** [Stream Animate 0.3.0 (Beta)](https://github.com/StreamAnimate/StreamAnimate2.0/releases/tag/v0.3.0-Beta)
 
  ####  **Install obs-websocket plugin and StreamFX Plugin  - (see above)** 
 
