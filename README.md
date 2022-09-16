@@ -75,10 +75,13 @@
 
 
 
-
-
-
  ####  **You should now be able to start creating animations.** 
 - I'll be making some youtube videos soon!
+>
+---
+ ####  **STREAM DECK PLUGIN** 
+- This is a little buggy. If you want to try it download *com.stream.animate.sdPlugin.zip*
+and extract the zip file. Place the extracted folder wherever the elgato plugins folder is found on your pc. eg. *C:\Users\YOURUSERNAME\AppData\Roaming\Elgato\StreamDeck\Plugins* .
+Then restart the Stream Deck software.
 >
 ---
