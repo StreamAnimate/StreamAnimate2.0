@@ -18,12 +18,12 @@
 - **For OBS 28** - This version of StreamFX is not produciton ready, so use at own discretion. Found here:  [StreamFX 0.12.0 Alpha 117](https://github.com/Xaymar/obs-StreamFX/releases/tag/0.12.0a117)
 
 ## Install
- ####  **DOWNLOAD and extract StreamAnimate.0.3.Beta.zip file found here:** [Stream Animate 0.3.0 (Beta)](https://github.com/StreamAnimate/StreamAnimate2.0/releases/tag/v0.3.0-Beta)
+ ####  **DOWNLOAD and extract StreamAnimate.0.5.Beta.zip file found here:** [Stream Animate 0.5.0 (Beta)](https://github.com/StreamAnimate/StreamAnimate2.0/releases/tag/v0.5.0-Beta)
 
  ####  **Install obs-websocket plugin and StreamFX Plugin  - (see above)** 
 
  ####  **Launch Stream Animate** 
- - **Found in downloaded folder** - */Stream Animate 0.3 Beta/Stream Animate/Stream Animate.exe*
+ - **Found in downloaded folder** - */Stream Animate 0.5 Beta/Stream Animate/Stream Animate.exe*
 - **Create a New Collection** - Type a name for the collection and click *Start*
 ![App Screenshot](https://i.ibb.co/g931HrR/06f3dfd0d0588d5510b5731a733b4f14.png)
 
