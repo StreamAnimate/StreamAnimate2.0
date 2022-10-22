@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/7nL9jWZ/logo-options.png)
+![Logo](https://images2.imgbox.com/19/c6/8wpg7ww0_o.png)
 
 
 # Stream Animate (Beta)
