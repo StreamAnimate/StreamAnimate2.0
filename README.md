@@ -54,7 +54,7 @@
 #### **Connect Stream Animate with OBS Script**
 - **Stream Animate** - Settings > Copy *Software Folder Location*
 - **OBS** - Paste into the textbox with the *StreamAnimateScript* selected
-- **OBS** - Right Click *StreamAnimateScript1-0.py* and click *Reload* (or click &#10227;)
+- **OBS** - Right Click *StreamAnimateScript1-1.py* and click *Reload* (or click &#10227;)
 
 ![App Screenshot](https://i.ibb.co/r2CgCXw/ezgif-4-a8365a6a9f.gif)
 >
