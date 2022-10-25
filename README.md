@@ -46,7 +46,7 @@
 ---
 
 #### **Load Python Script *StreamAnimateScript* in OBS** (found in downloaded folder)
-- **OBS** - Tools > Scripts > *Scripts* Tab > Click + Symbol > Navigate to *StreamAnimateScript1-0.py*
+- **OBS** - Tools > Scripts > *Scripts* Tab > Click + Symbol > Navigate to *StreamAnimateScript1-1.py*
 
 ![App Screenshot](https://i.ibb.co/wRm5QpS/ezgif-4-2c84fa01fb.gif)
 >
