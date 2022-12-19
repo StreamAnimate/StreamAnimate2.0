@@ -80,6 +80,7 @@
 >
 ---
  ####  **STREAM DECK PLUGIN** 
+- Stream Deck Software Version 6.* is currently not compatible. 
 - This is a little buggy. If you want to try it download *com.stream.animate.sdPlugin.zip*
 and extract the zip file. Place the extracted folder wherever the elgato plugins folder is found on your pc. eg. *C:\Users\YOURUSERNAME\AppData\Roaming\Elgato\StreamDeck\Plugins* .
 Then restart the Stream Deck software.
