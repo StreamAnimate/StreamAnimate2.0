@@ -6,13 +6,13 @@
 
 
 ## Requirements
-- **OBS 27 or OBS 28**
+- **OBS 27 or above**
 #### **Support Operating Systems -**
 - **Currently Windows Only** - It has only been tested on Windows 10. I plan to test Windows 11 soon and if there is sufficent demand I will make it compatible with Mac OS and Linux
 
 #### **obs-websocket Plugin - (does not currently support obs-websocket 5.0 or above)**
 - **For OBS 27** - Tested and working version found here: [obs-websocket 4.9.1](https://github.com/obsproject/obs-websocket/releases/tag/4.9.1)
-- **For OBS 28** - You will need to install a legacy version of obs-websocket plugin until I update it to work natively with OBS 28. Tested version can be found here: [obs-websocket 4.9.1-compat (OBS 28+/Qt6)](https://github.com/obsproject/obs-websocket/releases/tag/4.9.1-compat)
+- **For OBS 28 or above** - You will need to install a legacy version of obs-websocket plugin until I update it to work natively with OBS 28. Tested version can be found here: [obs-websocket 4.9.1-compat (OBS 28+/Qt6)](https://github.com/obsproject/obs-websocket/releases/tag/4.9.1-compat)
 #### **StreamFX Plugin-  (required for certain filter options)**
 - **For OBS 27** -Tested and working version found here: [StreamFX 0.11.1](https://github.com/Xaymar/obs-StreamFX/releases/tag/0.11.1)
 - **For OBS 28** - This version of StreamFX is not produciton ready, so use at own discretion. Found here:  [StreamFX 0.12.0 Alpha 117](https://github.com/Xaymar/obs-StreamFX/releases/tag/0.12.0a117)
