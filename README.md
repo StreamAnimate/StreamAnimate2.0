@@ -15,7 +15,7 @@
 - **For OBS 28 or above** - You will need to install a legacy version of obs-websocket plugin until I update it to work natively with OBS 28. Tested version can be found here: [obs-websocket 4.9.1-compat (OBS 28+/Qt6)](https://github.com/obsproject/obs-websocket/releases/tag/4.9.1-compat)
 #### **StreamFX Plugin-  (required for certain filter options)**
 - **For OBS 27** -Tested and working version found here: [StreamFX 0.11.1](https://github.com/Xaymar/obs-StreamFX/releases/tag/0.11.1)
-- **For OBS 28** - This version of StreamFX is not produciton ready, so use at own discretion. Found here:  [StreamFX 0.12.0 Alpha 117](https://github.com/Xaymar/obs-StreamFX/releases/tag/0.12.0a117)
+- **For OBS 28** - This version of StreamFX is not produciton ready, so use at own discretion. Found here:  [StreamFX 0.12.0 Alpha 117](https://github.com/Xaymar/obs-StreamFX/releases/tag/0.12.0a117) !!This is now been put behind a Pateron paywall (I'm not the dev) and I'm currently wokring on finding alternatives.
 
 ## Install
  ####  **DOWNLOAD and extract StreamAnimate.0.5.Beta.zip file found here:** [Stream Animate 0.5.0 (Beta)](https://github.com/StreamAnimate/StreamAnimate2.0/releases/tag/v5.0-Beta)
