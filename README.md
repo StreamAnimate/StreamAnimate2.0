@@ -4,7 +4,7 @@
 
 # Stream Animate (Beta)
 
- ####  **Download and Extract StreamAnimate.0.9.7.zip:** [Stream Animate 0.9.7 (Beta)](https://github.com/StreamAnimate/StreamAnimate2.0/releases/download/v0.9.7-Beta/Stream.Animate.0.9.7.zip)
+ ####  **Download and Extract:** [Stream Animate 0.9.7.zip](https://github.com/StreamAnimate/StreamAnimate2.0/releases/download/v0.9.7-Beta/Stream.Animate.0.9.7.zip)
 ---
  ####  **STREAM DECK PLUGIN**  
 - Download [Stream Deck Plugin.zip](https://github.com/StreamAnimate/StreamAnimate2.0/releases/download/v0.9.7-Beta/Stream.Deck.Plugin.zip)
